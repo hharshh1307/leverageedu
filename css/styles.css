@@ -1,0 +1,207 @@
+.ava{
+  height:80px;
+
+}
+.navbar{
+font-size: 150%;
+  background-color: #3b6978;
+  color: white;
+
+}
+.navbar{
+  position: fixed;
+  width:100%;
+  z-index: 1;
+}
+.nav-link{
+  color:white;
+}
+.btn{
+  margin:10px;
+}
+
+/* MY HEADER */
+hr{
+  border-radius: 2px;
+  border-color: grey;
+}
+.header{
+  text-align: center;
+  padding-top: 200px;
+  margin:0 auto 0 auto;
+
+}
+.tagline{
+  width:500px;
+  margin:0 auto 0 auto;
+  color: #fff;
+}
+.smaller-head{
+  padding-top: 15px;
+    color: #fff;
+
+}
+.searchit{
+width:500px;
+margin-top: 80px;
+position: relative;
+height:70px;
+left:420px;
+
+
+}
+.counsel{
+  width:500px;
+  height:200px;
+  background-color: #fff;
+
+  border-radius: 5%;
+}
+h4{
+  position: relative;
+  right:20px;
+}
+.cs{
+  width:300px;
+  margin-top: 5px;
+  margin-left:20px;
+}
+.logo-news{
+  text-align: center;
+position: relative;
+bottom:60px;
+}
+.logo-img{
+height:50px;
+width:50px;
+margin-left: 10px;
+}
+
+/* Second divion RESULTS */
+.results{
+  text-align: center;
+}
+.person{
+  height:120px;
+  width:120px;
+  border-radius: 100%;
+}
+.works{
+  width:80%;
+  margin:0 auto 0 auto;
+}
+.btnn{
+  color: grey;
+}
+
+
+/* STUDY */
+.study{
+  text-align: center;
+  margin-top: 50px;
+}
+.simg{
+  height:100px;
+  width:100px;
+}
+/* UNIVERSITIES */
+.univ{
+  text-align: center;
+}
+.univ.universities{
+  widht:100%;
+  height:200px;
+}
+/* MENTORS LIST */
+.mentors{
+  text-align: center;
+}
+.pencil{
+  height:60px;
+  width:60px;
+}
+.learnmore{
+  margin-top: 30px;
+  color: #2bb2bb;
+}
+.next-step{
+  text-align: center;
+}
+.ai{
+  text-align: center;
+  margin-top: 100px;
+
+}
+.myai{
+  text-align: left;
+  position: relative;
+  width: 700px;
+  left:780px;
+  font-size: 130%;
+}
+/* STUDS */
+.stud{
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+.smile{
+  height:200px;
+  width:180px;
+  display: inline-block;
+  margin-left: 100px;
+  opacity: 70%;
+}
+figcaption{
+  display: inline-block;
+}
+#explore{
+color:white;
+  text-align: center;
+}
+.ex{
+  padding: 20px;
+  border-radius: 20%;
+}
+.footer{
+  background-color: #3b6978;
+height:300px;
+padding-left: 150px;
+padding-top: 5px;
+}
+h2.footab{
+  display: inline;
+margin-right: 40px;
+  color:white;
+  font-weight:lighter;
+  text-decoration: underline;
+
+}
+h4.footab, p.footab{
+    color:white;
+      font-weight:lighter;
+      display: inline;
+      position: relative;left:3px;
+
+}
+hr.footerr{
+  border-radius: 3px;
+border-color: white;
+position: relative;
+right:190px;
+width:80%;
+
+}
+.details{
+  padding-top: 25px;
+}
+.icons{
+  margin-left: 4px;
+  margin-top: 30px;
+  color: #f3ecc2;
+}
+.whiten{
+  color:white;
+  font-weight: lighter;
+  margin-top:30px;
+}
